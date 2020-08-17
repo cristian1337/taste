@@ -1,0 +1,6 @@
+body {
+    margin: 0;
+}
+.contenedorImagen1 img, .contenedorImagen2 img, .contenedorImagen3 img, .contenedorImagen4 img, .contenedorImagen5 img, .contenedorImagen6 img, .contenedorImagen7 img, .contenedorImagen8 img, .contenedorImagen9 img, .contenedorImagen10 img, .contenedorImagen11 img, .contenedorImagen12 img, .contenedorImagen13 img, .contenedorImagen14 img{
+    width: 100%;
+}
